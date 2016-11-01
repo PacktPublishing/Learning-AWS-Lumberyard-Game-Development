@@ -1,14 +1,9 @@
-#Learning AWS Lumberyard Game Development
+﻿#Learning AWS Lumberyard Game Development
 This is the code repository for [Learning AWS Lumberyard Game Development](https://www.packtpub.com/game-development/learning-aws-lumberyard-game-development?utm_source=github&utm_medium=repository&utm_campaign=9781786460868), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 ##Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
 
-
-The code will look like the following:
-```
-
-```
 
 This book is intended for use alongside a computer running Lumberyard. The Lumberyard
 Editor is therefore required to fully realize the benefits of this book. Lumberyard can run on
